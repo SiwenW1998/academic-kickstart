@@ -4,15 +4,16 @@ date = 2018-11-10T00:00:00
 layout = "project"
 
 # Project title.
-title = "1. A Path Tracer"
+title = "1. Expedia Project"
 
 # Project summary to display on homepage.
 summary = """
- This is a curriculum project in CS285 Advanced Image Synthesis at UCSB.<br>
- I'm responsible for all the code and pipeline design
+This is a study abroad project that took place in Vienna, Austria. <br>
+My group collaborated with an Austrian Semantic Web Company who wanted to establish a long-term partnership with Expedia. My group built cognitive Artificial Intelligence solutions to help the clients from Expedia enhancing the user experience of low vision travelers in Austria.<br>
+ I took the roles of user experience researcher and prototype designer.
  """
  
-image_preview = "img/Scene-Test5.jpg"
+image_preview = "img/expedia.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["Computer Graphics", "Rendering"]`
@@ -22,7 +23,7 @@ tags = ["Computer Graphics","Rendering"]
 external_link = ""
 
 # [header]
-# image = "img/Scene-Test5.jpg"
+# image = "img/expedia.png"
 
 +++
 
@@ -30,12 +31,11 @@ external_link = ""
 This is a Monte-Carlo rendering system that supports global illumination, interpolating parameters, texture mapping, bounding volume hierarchy accelerating, and depth of field effected rendering, etc..<br>
 I independently accomplished it under the guidance of Prof. Pradeep Sen. <br>
 
-The main workflow of the program is as follows: <br>
-1. Implement a basic Whitted-style ray tracer. <br>
-2. Improved it to support interpolating parameters, texture mapping, shaders.<br>
-3. Accelerate the rendering of complex scenes by optimize the sphere and triangle intersection routines and add acceleration data structures.
-4. Improve it to support Monte-Carlo integration (pixel antialiasing by integrating with a box filter over the pixel footprint and depth of field by integrating over the aperture of the camera).
-5. Add path tracing to support global illumination.
+The main accomplishments carried out by my groups are: <br>
+1. Created user personas, user scenarios, and knowledge graphs to identify the needs, goals, and behaviors of low vision travellers. 
+2. Built an AI knowledge Graph to enhance the experience of low vision travelers using Expedia. <br>
+3. Developed a whole set of taxonomy and ontology using PoolParty Semantic Suites and connected content from Google Maps, Municipal Data, and other open-source data such as Wikivoyage to expand the database.<br>
+4. Used SPARQL Queries to extract data from open-source database and delivered data to users’ phones or tablets.
 
 # Features
 ## Ray Tracing
