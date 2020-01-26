@@ -24,7 +24,9 @@ date_format = "Jan 2006"
   location = "Shanghai, China"
   date_start = "Aug 2019"
   date_end = "Sept 2019"
-   Responsibilities include:
+ description = """Eight-week internship as marketing system analyst"""
+ 
+ Responsibilities include:
   
   * Participated in industrial data analyzing, reports drafting, and basic usability testing
   * Introduced Multi- channel analytics to enlarge the customer base
