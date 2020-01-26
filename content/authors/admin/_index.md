@@ -27,8 +27,7 @@ interests:
 
 education:
   courses:
-  - course: B.S. in Psychology <br>
-    Minor in Informatics
+  - course: B.S. in Psychology
     institution: University of Washington, Seattle, WA
     year: 2016.9-2020.4
 
