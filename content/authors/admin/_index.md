@@ -9,31 +9,29 @@ authors:
 # Is this the primary user of the site?
 superuser: true
 
-# Role/position
-role: Vice-Principal of Unreal Studio at UESTC
 
 # Organizations/Affiliations
 organizations:
-- name: University of Electronic Science and Technology of China
-  url: ""
+- name: University of Washington
+  url: "https://www.washington.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research areas include Computer Graphics (Rendering), Game Development, Computer Vision, and Machine Learning.
+bio: My research areas include User Experience Design, Human Centered Data Science, Data Visualization, and Inclusive Design.
 
 interests:
-- Computer Graphics (hard-core Rendering)
-- Game Development
+- User Experience Design
+- Inclusive Design
 - Virtual Reality/Augmented Reality
-- Machine Learning
+- Data Visualization 
+- Information Management 
 
 education:
   courses:
-  - course: BE in Software Engineering (Digital Animation)
-    institution: University of Electronic Science and Technology of China
-    year: 2016.9-2020.6
-  - course: Exchange Program
-    institution: University of California, Santa Barbara
-    year: 2019.4-2019.6
+  - course: B.S. in Psychology <br>
+    Minor in Informatics
+    institution: University of Washington, Seattle, WA
+    year: 2016.9-2020.4
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -43,7 +41,7 @@ social:
 
 - icon: github
   icon_pack: fab
-  link: https://github.com/XiangmingKA
+  link: https://github.com/SiwenW1998
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
@@ -52,9 +50,9 @@ social:
 
 - icon: envelope
   icon_pack: fas
-  link: mailto:kaxm0124@163.com
+  link: mailto:wangsiwen1998@gmail.com
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "kaxm0124@163.com"
+email: "wangsiwen1998@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -63,6 +61,6 @@ user_groups:
 - Visitors
 ---
 
-Welcome to Xiangming Ka's homepage!
+Welcome to Siwen Wang's Homepage!
 
-I am a senior student who is majoring in Software Engineering at the University of Electronic Science and Technology of China (UESTC). Also, I am the vice-principle of the [Unreal Game Studio](http://www.ss.uestc.edu.cn/studio.do?id=491) at UESTC. My research fields include Computer Graphics (Rendering), Game Development, VR/AR, and Machine Learning. Besides the technological aspects, I am also interested in the artistic aspects of Visual Arts--Game Design, Game Culture, Filmmaking, and Photography.
+Siwen is a graduating senior at University of Washington. Her background is in both Cognitive Psychology and Informatics, and she aspires to create and collaborate in a multidisciplinary workplace as a UX designer. Her interested areas include Inclusive Design, User Experience Design, VR/AR, and Data Visualization. Siwen has experience in conducting user researches, prototyping, and collabrating with team members. 
