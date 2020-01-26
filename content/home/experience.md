@@ -24,13 +24,13 @@ date_format = "Jan 2006"
   location = "Shanghai, China"
   date_start = "Aug 2019"
   date_end = "Sept 2019"
- description = """Eight-week internship as marketing system analyst"""
+ description = """Eight-week internship as marketing system analyst
  
  Responsibilities include:
   
   * Participated in industrial data analyzing, reports drafting, and basic usability testing
   * Introduced Multi- channel analytics to enlarge the customer base
-
+ """
 [[experience]]
   title = "Research Assistant"
   company = "University of Washington Autism Center "
@@ -38,12 +38,13 @@ date_format = "Jan 2006"
   location = "Seattle, WA"
   date_start = "Mar 2019"
   date_end = "Dec 2019"
+   description = """
    Responsibilities include:
    
    * Promoted the progress of converting paper questionnaires (WIAT-III & DAS-II) into digital forms
    * Facilitated data entry and analysis
    * Interviewed participants and videotaped performance data
-   
+   """
    [[experience]]
    title = "ESL Teacher"
    company = "Asian Counseling and Referral Service"
@@ -51,9 +52,10 @@ date_format = "Jan 2006"
    location = "Seattle, WA"
    date_start = "Sep 2019 "
    date_end = "Dec 2019"
+     description = """
     Responsibilities include:
   * Mentored students from diverse backgrounds in both written and spoken English
   * Researched how non-English speakers learn to master a second language
-  
+  """
    
 +++
