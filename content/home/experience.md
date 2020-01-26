@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "ACTIVITIES & OTHER WORK EXPERIENCE"
 subtitle = ""
 
 # Date format for experience
@@ -19,24 +19,41 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Internship"
-  company = "EO-VISION Digital Technology Co., Ltd."
+  company = "United Automotive Electronic System Co."
   company_url = ""
-  location = "Beijing"
-  date_start = "2019-07-02"
-  date_end = "2019-09-06"
-  description = """
+  location = "Shanghai, China"
+  date_start = "Aug 2019"
+  date_end = "Sept 2019"
+  description = "Eight-week internship as marketing system analyst""
   Responsibilities include:
   
-  * Unity3D VR demonstration application developments
-  * Interactive touch screen demonstration developments
+  * Participated in industrial data analyzing, reports drafting, and basic usability testing
+  * Introduced Multi- channel analytics to enlarge the customer base
   """
 
 [[experience]]
-  title = "Assistant Researcher"
-  company = "Brain Cognition and Brain Disease Institute, Shenzhen Institute of Advanced Technology"
+  title = "Research Assistant"
+  company = "University of Washington Autism Center "
   company_url = ""
-  location = "Shenzhen"
-  date_start = "2018-10-01"
-  date_end = "2018-10-15"
-  description = """We collected visual-cortical SSVEP brain waves under certain visual stimuli. Then we trained a neural network to determine the types and characteristics of visual stimuli received by subjects."""
+  location = "Seattle, WA"
+  date_start = "Mar 2019"
+  date_end = "Dec 2019"
+   Responsibilities include:
+   
+   * Promoted the progress of converting paper questionnaires (WIAT-III & DAS-II) into digital forms
+   * Facilitated data entry and analysis
+   * Interviewed participants and videotaped performance data
+   
+   [[experience]]
+   title = "ESL Teacher"
+   company = "Asian Counseling and Referral Service"
+   company_url = ""
+   location = "Seattle, WA"
+   date_start = "Sep 2019 "
+   date_end = "Dec 2019"
+    Responsibilities include:
+  * Mentored students from diverse backgrounds in both written and spoken English
+  * Researched how non-English speakers learn to master a second language
+  
+   
 +++
