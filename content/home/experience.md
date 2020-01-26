@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "ACTIVITIES & OTHER WORK EXPERIENCE"
+title = "Experience"
 subtitle = ""
 
 # Date format for experience
@@ -22,8 +22,8 @@ date_format = "Jan 2006"
   company = "United Automotive Electronic System Co."
   company_url = ""
   location = "Shanghai, China"
-  date_start = "Aug 2019"
-  date_end = "Sept 2019"
+  date_start = "2019-08-02"
+  date_end = "2019-07-02"
  description = """Eight-week internship as marketing system analyst
  
  Responsibilities include:
@@ -36,8 +36,8 @@ date_format = "Jan 2006"
   company = "University of Washington Autism Center "
   company_url = ""
   location = "Seattle, WA"
-  date_start = "Mar 2019"
-  date_end = "Dec 2019"
+  date_start = "2019-03-02"
+  date_end = "2019-12-02"
    description = """
    Responsibilities include:
    
@@ -50,8 +50,8 @@ date_format = "Jan 2006"
    company = "Asian Counseling and Referral Service"
    company_url = ""
    location = "Seattle, WA"
-   date_start = "Sep 2019 "
-   date_end = "Dec 2019"
+   date_start = "2019-09-02"
+   date_end = "2019-12-02"
      description = """
     Responsibilities include:
   * Mentored students from diverse backgrounds in both written and spoken English
