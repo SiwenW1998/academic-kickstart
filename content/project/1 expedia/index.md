@@ -27,7 +27,7 @@ external_link = ""
 # image = "img/expedia.jpg"
 # =======
 # image = "expedia.jpg"
->>>>>>> f5c65b7419ade544e8209bb3766572a57b9c72a1:content/project/1 A Path Tracer/index.md
+# >>>>>>> f5c65b7419ade544e8209bb3766572a57b9c72a1:content/project/1 A Path Tracer/index.md
 
 +++
 
