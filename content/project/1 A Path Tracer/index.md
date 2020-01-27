@@ -40,7 +40,7 @@ The main accomplishments carried out by my groups are: <br>
 ## Ray Tracing
 
 The first step of this system is to implement a basic Whitted-style ray tracer. Features like reflection, refraction, and shadowing are supported.
-![Reflections & Shadows](img/Scene-Test5.jpg)
+![Reflections & Shadows](expedia.jpg)
 ![Reflections & Refractions](img/Scene-Test2.jpg)
 
 Then, I Improved it to support more shaders, such as texture mapping and interpolating parameters.
