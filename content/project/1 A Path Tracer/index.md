@@ -12,7 +12,7 @@ This is a study abroad project that took place in Vienna, Austria. <br>
 My group collaborated with an Austrian Semantic Web Company who wanted to establish a long-term partnership with Expedia. My group built cognitive Artificial Intelligence solutions to help the clients from Expedia enhancing the user experience of low vision travelers in Austria.<br>
  """
  
-image_preview = "expedia.png"
+image_preview = "img/expedia.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["Computer Graphics", "Rendering"]`

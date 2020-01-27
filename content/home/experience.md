@@ -45,6 +45,7 @@ date_format = "Jan 2006"
    * Facilitated data entry and analysis
    * Interviewed participants and videotaped performance data
    """
+   
 [[experience]]
    title = "ESL Teacher"
    company = "Asian Counseling and Referral Service"
@@ -52,7 +53,7 @@ date_format = "Jan 2006"
    location = "Seattle, WA"
    date_start = "2019-09-02"
    date_end = "2019-12-02"
-     description = """
+    description = """
      Responsibilities include:
     
   * Mentored students from diverse backgrounds in both written and spoken English
