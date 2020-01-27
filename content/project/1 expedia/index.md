@@ -23,6 +23,7 @@ external_link = ""
 
 # [header]
 <<<<<<< HEAD:content/project/1 expedia/index.md
+
 # image = "img/expedia.jpg"
 =======
 # image = "expedia.jpg"
