@@ -27,7 +27,7 @@ external_link = ""
 # image = "img/expedia.jpg"
 # =======
 # image = "expedia.jpg"
-# >>>>>>> f5c65b7419ade544e8209bb3766572a57b9c72a1:content/project/1 A Path Tracer/index.md
+
 
 +++
 
@@ -47,8 +47,8 @@ The main accomplishments carried out by my groups are: <br>
 ### Personas (Fictional representation of our typical customer)
 
 In order to identify the needs, behaviors, and goals of our target users, my group created some user personas (Fictional representation of typical customer) to narrow the scope of our project. 
-![Linda](img/Linda.png)
-![Frank](img/Frank.png)
+![Linda](img/Linda.jpg)
+![Frank](img/Frank.jpg)
 
 Then, I Improved it to support more shaders, such as texture mapping and interpolating parameters.
 ![Shaders](img/Shaders.jpg)
