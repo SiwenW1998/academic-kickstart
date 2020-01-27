@@ -22,7 +22,7 @@ tags = ["Computer Graphics","Rendering"]
 external_link = ""
 
 # [header]
-<<<<<<< HEAD:content/project/1 expedia/index.md
+# <<<<<<< HEAD:content/project/1 expedia/index.md
 
 # image = "img/expedia.jpg"
 =======
