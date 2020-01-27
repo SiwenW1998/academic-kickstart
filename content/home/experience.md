@@ -22,8 +22,8 @@ date_format = "Jan 2006"
   company = "United Automotive Electronic System Co."
   company_url = ""
   location = "Shanghai, China"
-  date_start = "2019-08-02"
-  date_end = "2019-07-02"
+  date_start = "2019-07-02"
+  date_end = "2019-08-02"
  description = """Eight-week internship as marketing system analyst
  
  Responsibilities include:
@@ -54,6 +54,7 @@ date_format = "Jan 2006"
    date_end = "2019-12-02"
      description = """
     Responsibilities include:
+    
   * Mentored students from diverse backgrounds in both written and spoken English
   * Researched how non-English speakers learn to master a second language
   """
