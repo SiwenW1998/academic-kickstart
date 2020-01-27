@@ -12,7 +12,7 @@ This is a study abroad project that took place in Vienna, Austria. <br>
 My group collaborated with an Austrian Semantic Web Company who wanted to establish a long-term partnership with Expedia. My group built cognitive Artificial Intelligence solutions to help the clients from Expedia enhancing the user experience of low vision travelers in Austria.<br>
  """
  
-image_preview = "expedia.png"
+image_preview = "expedia.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["Computer Graphics", "Rendering"]`
@@ -22,13 +22,17 @@ tags = ["Computer Graphics","Rendering"]
 external_link = ""
 
 # [header]
-# image = "img/expedia.png"
+<<<<<<< HEAD:content/project/1 expedia/index.md
+# image = "img/expedia.jpg"
+=======
+# image = "expedia.jpg"
+>>>>>>> f5c65b7419ade544e8209bb3766572a57b9c72a1:content/project/1 A Path Tracer/index.md
 
 +++
 
 # Overview
 This is a Monte-Carlo rendering system that supports global illumination, interpolating parameters, texture mapping, bounding volume hierarchy accelerating, and depth of field effected rendering, etc..<br>
-I independently accomplished it under the guidance of Prof. Pradeep Sen. <br>
+I took the roles of user experience researcher and prototype designer. <br>
 
 The main accomplishments carried out by my groups are: <br>
 1. Created user personas, user scenarios, and knowledge graphs to identify the needs, goals, and behaviors of low vision travellers. 
@@ -40,7 +44,7 @@ The main accomplishments carried out by my groups are: <br>
 ## Ray Tracing
 
 The first step of this system is to implement a basic Whitted-style ray tracer. Features like reflection, refraction, and shadowing are supported.
-![Reflections & Shadows](img/Scene-Test5.jpg)
+![Reflections & Shadows](expedia.jpg)
 ![Reflections & Refractions](img/Scene-Test2.jpg)
 
 Then, I Improved it to support more shaders, such as texture mapping and interpolating parameters.

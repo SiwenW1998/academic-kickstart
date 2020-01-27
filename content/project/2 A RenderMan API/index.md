@@ -12,7 +12,7 @@ summary = """
  I'm responsible for all the code and pipeline design
  """
  
-image_preview = "featured.jpeg"
+ image_preview = "expedia.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["Computer Graphics", "Rendering"]`
@@ -22,7 +22,7 @@ tags = ["Computer Graphics","Rendering"]
 external_link = ""
 
 # [header]
-# image = "featured.jpeg"
+# image = "expedia.jpg"
 
 +++
 
