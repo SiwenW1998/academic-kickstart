@@ -32,7 +32,7 @@ external_link = ""
 +++
 
 # Overview
-This is a Monte-Carlo rendering system that supports global illumination, interpolating parameters, texture mapping, bounding volume hierarchy accelerating, and depth of field effected rendering, etc..<br>
+This project aimed to help the clients from Expedia by building an AI knowledge Graph to enhance the experience of low vision travelers in Austria. During the project, my group mates and I organized and extracted data from open-source database and delivered data to users’ phones or tablets.<br>
 I took the roles of user experience researcher and prototype designer. <br>
 
 The main accomplishments carried out by my groups are: <br>
@@ -42,11 +42,13 @@ The main accomplishments carried out by my groups are: <br>
 4. Used SPARQL Queries to extract data from open-source database and delivered data to users’ phones or tablets.
 
 # Features
-## Ray Tracing
+## User Research
 
-The first step of this system is to implement a basic Whitted-style ray tracer. Features like reflection, refraction, and shadowing are supported.
-![Reflections & Shadows](expedia.jpg)
-![Reflections & Refractions](img/Scene-Test2.jpg)
+### Personas (Fictional representation of our typical customer)
+
+In order to identify the needs, behaviors, and goals of our target users, my group created some user personas (Fictional representation of typical customer) to narrow the scope of our project. 
+![Linda](img/Linda.png)
+![Frank](img/Frank.png)
 
 Then, I Improved it to support more shaders, such as texture mapping and interpolating parameters.
 ![Shaders](img/Shaders.jpg)
