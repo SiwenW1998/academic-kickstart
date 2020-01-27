@@ -22,7 +22,7 @@ tags = ["Computer Graphics","Rendering"]
 external_link = ""
 
 # [header]
-# image = "featured.jpeg"
+# image = "expedia.jpg"
 
 +++
 
