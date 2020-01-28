@@ -12,7 +12,7 @@ This is a study abroad project that took place in Vienna, Austria. <br>
 My group collaborated with an Austrian Semantic Web Company who wanted to establish a long-term partnership with Expedia. My group built cognitive Artificial Intelligence solutions to help the clients from Expedia enhancing the user experience of low vision travelers in Austria.<br>
  """
  
-image_preview = "expedia.jpg"
+image_preview = "cover.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["Computer Graphics", "Rendering"]`
@@ -87,6 +87,6 @@ Wireframes served as a visual guide that includes most of the features available
 ![Test Scene 1](img/5.jpg)
 
 
-For more information and source code: https://github.com/XiangmingKA/PathTracer
-![Test Scene 1](img/Scene-Test4.jpg)
+For more information and source code: https://github.com/SiwenW1998/academic-kickstart
+
 
