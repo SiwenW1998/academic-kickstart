@@ -43,22 +43,24 @@ The main accomplishments carried out by my groups are: <br>
 
 # Features
 ## User Research
+### Personas
 
-### Personas (Fictional representation of our typical customer)
-
-In order to identify the needs, behaviors, and goals of our target users, my group created some user personas (Fictional representation of typical customer) to narrow the scope of our project. 
-![Linda](img/Linda.jpg)
+In order to identify the needs, behaviors, and goals of our target users, I created some user personas (Fictional representation of typical customer) to expand the scope of our project. 
 ![Frank](img/Frank.jpg)
+I considered that there is a higher chance for elderly people to have low- vision. And the number of senior travellers are increasing over years. So we came up with Frank’s persona and use it as our central focus.
+![Linda](img/Linda.jpg)
+While creating those persons, I postitioned myself as a low vision traveller and developed research upon that postition. This whole procedure helped me better identify the needs of users. For instance, It occured to me that low vision travellers might have service animals with them while travelling. Therefore they might want info about places which are guide-dogs friendly. 
 
-Then, I Improved it to support more shaders, such as texture mapping and interpolating parameters.
-![Shaders](img/Shaders.jpg)
+### User Scenario
 
-To render complex scenes, I added a heuristic bounding volume hierarchy (BVH) to store the primitives in an efficient manner. Also, I optimize the sphere and triangle intersection routines. In most scenes, the speed of rendering has been accelerated by more than 50x.
-![Test Scene 1](img/BVH.jpg)
-A complex scene rendered within 2 minutes:
-![Test Scene 1](img/Scene2-Test5.jpg)
+Then, my group created a list of queries based on Frank's persona to imitate and understand users' behaviors. 
+![queries](img/Quries.jpg)
 
-Now, it is the time to implement path tracing!
+### Knowledge Graph
+
+To understand how to achieve the goals of our target users, my group built knowledge graphs with the queries color-coded. Those knowledge graphs enabled us to identify which concepts are the results of which query, linked to their websites and the relationships tie it all together. This is the start of a complex system that can be built upon based on what Expedia wants to service.
+
+![knowledge graph](img/knowledgegraph.jpg)
 
 ## Monte-Carlo integration & Path Tracing
 
