@@ -62,10 +62,13 @@ To understand how to achieve the goals of our target users, my group built knowl
 
 ![knowledge graph](img/knowledgegraph.jpg)
 
-## Monte-Carlo integration & Path Tracing
+## Taxonomy
 
-To support pixel antialiasing, I implemented a box filter over the pixel footprint and depth of field by integrating over the aperture of the camera illustrated as follows:
-![Antialiasing1](img/Antialiasing1.jpg)
+My group started building taxonomy by learning from two other existing projects about low vision traveling and built on their structure and terms. We built 11 concept schemes that focus basically on two perspectives: Accessibility and Travelling.
+![taxo](img/taxo.jpg)
+
+My group enriched the database by relating the personas to taxonomy, and user research made sure that all concepts are closely related the user's experience. For example, by thinking about that Frank wants to travel in summertime, we added season concept scheme.
+![sample](img/sample.jpg)
 
 As for the depth-of-field effect, I simulated an imaginary thin lens with a fixed aperture to produce a nice depth-of-field effect, where some objects will be sharp but others blurry.
 ![DepthOfField1](img/DepthOfField1.jpg)
