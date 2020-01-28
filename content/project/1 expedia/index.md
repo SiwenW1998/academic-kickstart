@@ -64,36 +64,28 @@ To understand how to achieve the goals of our target users, my group built knowl
 
 ## Taxonomy
 
-My group started building taxonomy by learning from two other existing projects about low vision traveling and built on their structure and terms. We built 11 concept schemes that focus basically on two perspectives: Accessibility and Travelling.
+My group started building taxonomy by learning from two other existing projects about low vision traveling and built on their structure and terms. We built 11 concept schemes that focused basically on two perspectives: Accessibility and Travelling.
 ![taxo](img/taxo.jpg)
 
-My group enriched the database by relating the personas to taxonomy, and user research made sure that all concepts are closely related the user's experience. For example, by thinking about that Frank wants to travel in summertime, we added season concept scheme.
+My group enriched the database by relating the personas to taxonomy, and user research made sure that all concepts were closely related to user's experience. For example, by thinking about that Frank wants to travel in summertime, we added season concept scheme.
 ![sample](img/sample.jpg)
 
-As for the depth-of-field effect, I simulated an imaginary thin lens with a fixed aperture to produce a nice depth-of-field effect, where some objects will be sharp but others blurry.
-![DepthOfField1](img/DepthOfField1.jpg)
+## Wireframes & User Flow
 
-Original scene:
-![Test Scene 1](img/Scene2-Test4.jpg)
+Wireframes served as a visual guide that includes most of the features available in the app. The user flow on the side of wireframes demonstrate actions made by the user from the start to the end point.
 
-Depth-of-field effected scene:
-![Test Scene 1](img/DepthOfField.jpg)
+![DepthOfField1](img/1.jpg)
 
-Now, here is the most important part! 
-A basic Monte-Carlo estimater was implemented to sample radiance of the hemisphere.
-![Test Scene 1](img/PathTracing.jpg)
-By integrating the radiance coming from the hemisphere, we could estimate the radiance of indirect illumination. So far, we can get the global illuminated scenes as follows.
-![Test Scene 1](img/PathTracing2.jpg)
+![Test Scene 1](img/2.jpg)
 
-## Final thesis
+![Test Scene 1](img/6.jpg)
 
-Also, I added a basic volumetic scattering effect estimater in this path tracer and wrote a final paper in SIGGRAPH tamplate which discussed principles of volumetic rendering and path tracing.
+![Test Scene 1](img/3.jpg)
 
-![Test Scene 1](img/Final1.jpg)
-![Test Scene 1](img/Final2.jpg)
-![Test Scene 1](img/Final3.jpg)
-![Test Scene 1](img/Final4.jpg)
-![Test Scene 1](img/Final5.jpg)
+![Test Scene 1](img/4.jpg)
+
+![Test Scene 1](img/5.jpg)
+
 
 For more information and source code: https://github.com/XiangmingKA/PathTracer
 ![Test Scene 1](img/Scene-Test4.jpg)
