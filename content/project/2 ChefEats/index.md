@@ -4,22 +4,22 @@ date = 2018-11-10T00:00:00
 layout = "project"
 
 # Project title.
-title = "2. A RenderMan Graphics Interface"
+title = "2. ChefEats Project"
 
 # Project summary to display on homepage.
 summary = """
- This is a curriculum project in CS285 Advanced Image Synthesis at UCSB.<br>
- I'm responsible for all the code and pipeline design
+This is a curriculum project in Info360 at UW-ISchool. This project aimed to address the “structural inequality” problem - lack of nutrition in busy individuals and in low income communities.<br>
+I'm responsible for User Experience Design and App Wireframe.
  """
  
- image_preview = "expedia.jpg"
+ image_preview = "featured.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["Computer Graphics", "Rendering"]`
 tags = ["Computer Graphics","Rendering"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "https://robertthecoder.github.io/chefEatsWebsite/#about"
 
 # [header]
 # image = "expedia.jpg"
