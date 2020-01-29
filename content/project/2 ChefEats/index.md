@@ -8,7 +8,7 @@ title = "2. ChefEats Project"
 
 # Project summary to display on homepage.
 summary = """
-This is a curriculum project in Info360 at UW-ISchool. This project aimed to address the “structural inequality” problem - lack of nutrition in busy individuals and in low income communities. I'm responsible for User Experience Design and App Wireframe.
+This project aimed to address the “structural inequality” problem - lack of nutrition in busy individuals and in low income communities. I'm responsible for User Experience Design and App Wireframe.
  """
  
  image_preview = "featured.jpg"
