@@ -54,7 +54,8 @@ date_format = "Jan 2006"
    date_start = "2019-09-02"
    date_end = "2019-12-02"
     description = """
-     Responsibilities include:
+    
+Responsibilities include:
     
   * Mentored students from diverse backgrounds in both written and spoken English
   * Researched how non-English speakers learn to master a second language
