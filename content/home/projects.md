@@ -26,13 +26,17 @@ subtitle = ""
      tag = "*"
      
    [[content.filter_button]]
-     name = "Computer Graphics"
-     tag = "Computer Graphics"
+     name = "Data Visualization"
+     tag = "Data Visualization"
   
    [[content.filter_button]]
-     name = "Game Development"
-     tag = "Game Development"
-
+     name = "Website Design"
+     tag = "Website Design"
+     
+[[content.filter_button]]
+    name = "App Wireframe Design"
+     tag = "App Wireframe Design"
+     
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"

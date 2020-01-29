@@ -16,7 +16,7 @@ image_preview = "img/featured.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["Game Development", "Unity3D"]`
-tags = ["Game Development","Unity3D"]
+tags = ["Data Visualization","Website Design"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

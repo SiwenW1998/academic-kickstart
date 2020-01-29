@@ -15,7 +15,7 @@ This project aimed to address the “structural inequality” problem - lack of 
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["Computer Graphics", "Rendering"]`
-tags = ["Computer Graphics","Rendering"]
+tags = ["Website Design","App Wireframe Design"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://robertthecoder.github.io/chefEatsWebsite/"

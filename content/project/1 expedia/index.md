@@ -16,7 +16,7 @@ image_preview = "cover.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["Computer Graphics", "Rendering"]`
-tags = ["Computer Graphics","Rendering"]
+tags = ["App Wireframe Design"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
