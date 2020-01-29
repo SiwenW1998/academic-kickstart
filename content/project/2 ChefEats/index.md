@@ -8,8 +8,7 @@ title = "2. ChefEats Project"
 
 # Project summary to display on homepage.
 summary = """
-This is a curriculum project in Info360 at UW-ISchool. This project aimed to address the “structural inequality” problem - lack of nutrition in busy individuals and in low income communities.<br>
-I'm responsible for User Experience Design and App Wireframe.
+This is a curriculum project in Info360 at UW-ISchool. This project aimed to address the “structural inequality” problem - lack of nutrition in busy individuals and in low income communities. I'm responsible for User Experience Design and App Wireframe.
  """
  
  image_preview = "featured.jpg"
@@ -19,7 +18,7 @@ I'm responsible for User Experience Design and App Wireframe.
 tags = ["Computer Graphics","Rendering"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://robertthecoder.github.io/chefEatsWebsite/#about"
+external_link = "https://robertthecoder.github.io/chefEatsWebsite/"
 
 # [header]
 # image = "expedia.jpg"
