@@ -4,7 +4,7 @@ date = 2018-11-10T00:00:00
 layout = "project"
 
 # Project title.
-title = "4. Page Transition"
+title = "5. Page Transition"
 
 # Project summary to display on homepage.
 summary = """
