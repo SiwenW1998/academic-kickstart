@@ -8,8 +8,7 @@ title = "1. Expedia Project"
 
 # Project summary to display on homepage.
 summary = """
-This is a study abroad project that took place in Vienna, Austria. <br>
-My group collaborated with an Austrian Semantic Web Company who wanted to establish a long-term partnership with Expedia. My group built cognitive Artificial Intelligence solutions to help the clients from Expedia enhancing the user experience of low vision travelers in Austria.<br>
+My group collaborated with an Austrian Semantic Web Company who wanted to establish a long-term partnership with Expedia. We built cognitive Artificial Intelligence solutions to help the clients from Expedia enhancing the user experience of low vision travelers in Austria.<br>
  """
  
 image_preview = "cover.jpg"
@@ -32,8 +31,8 @@ external_link = ""
 +++
 
 # Overview
-This project aimed to help the clients from Expedia by building an AI knowledge Graph to enhance the experience of low vision travelers in Austria. During the project, my group mates and I organized and extracted data from open-source database and delivered data to users’ phones or tablets.<br>
-I took the roles of user experience researcher and prototype designer. <br>
+This project aimed to help the clients from Expedia by building an AI knowledge Graph to enhance the experience of low vision travelers in Austria. During the project, my group organized and extracted data from open-source database and delivered data to users’ phones or tablets.<br>
+I was user experience researcher and prototype designer. <br>
 
 The main accomplishments carried out by my groups are: <br>
 1. Created user personas, user scenarios, and knowledge graphs to identify the needs, goals, and behaviors of low vision travellers. 
